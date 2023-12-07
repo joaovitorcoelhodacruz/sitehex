@@ -1,0 +1,97 @@
+body {
+    background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: antiquewhite;
+    height: 2300px;
+}
+.row{
+    padding-top: 50px;
+    padding-left: 10px;
+}
+div.reque{
+  border: 2px;
+  border-color: bisque;
+  background-color: aliceblue;
+  color: black;
+  padding: 9px;
+  
+  margin-left: 180px;
+  margin-bottom:0px;
+  width: auto;
+  max-width: max-content;
+  height: auto;
+  font-size: 30px;
+  border-radius: 8px;
+  border-style: dashed ;
+  
+}
+div.imagem{
+    border: 2px;
+    border-color: bisque;
+    background-color: aliceblue;
+    color: black;
+    padding: 9px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    width: auto;
+    max-width: max-content;
+    height: auto;
+    font-size: 30px;
+    
+    
+    border-top: none; 
+}
+div.top{
+    border: 2px;
+    border-color: bisque;
+    background-color: aliceblue;
+    color: black;
+    padding: 9px;
+    
+    margin-left: 841px;
+    margin-bottom:0px;
+    width: auto;
+    max-width: max-content;
+    height: auto;
+    
+    font-size: 30px;
+    border-radius: 8px;
+    border-style: dashed ;
+}
+div.card{
+    border: 2px;
+    border-color: bisque;
+    background-color: aliceblue;
+    color: black;
+    padding: 9px;
+    
+    margin-left: 280px;
+    margin-bottom:0px;
+    width: 350px;
+    max-width: max-content;
+    height: auto;
+    font-size: 30px;
+    border-radius: 8px;
+    border-style: dashed ;
+}
+div.card p{
+    font-size:auto;
+}
+a {
+    color: aliceblue;
+}
+div.bottom{
+    background-color:rgba(255, 255, 255, 0.137);
+    width: 100%;
+    height: 200px;
+    border-top: 40px;
+    border-color: gray;
+    font-size: 3px;
+}
+div.bottom ul{
+    list-style-type: none;
+    font-size: 15px;
+    padding-top: 90px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
